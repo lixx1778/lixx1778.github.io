@@ -75,6 +75,8 @@ pagination_dir: page
 theme: landscape
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https://lixx1778.github.io
 deploy:
-  type:
+  type: git
+  repo: https://github.com/lixx1778/lixx1778.github.io.git
+  branch: master
